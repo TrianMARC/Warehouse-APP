@@ -1,0 +1,6 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+Rewriterule ^(.*)-(.*).html$ index.php?section=$1&changeLang=$2 [L]
+Rewriterule ^(.*).html$ index.php?section=$1 [L]
+

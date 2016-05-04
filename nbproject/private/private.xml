@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/view/html/section/operations/showShelves.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/controller/shelves_controller.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/controller/user_controller.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/view/html/section/shelves/shelves.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/view/html/section/operations/operations.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/dao/Dao.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/view/html/section/users/login.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/view/html/section/boxes/boxes.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/view/css/style.css</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/dao/users_DAO.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/view/html/section/users/register_error.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/view/html/section/operations/showBoxes.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/controller/box_controller.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/controller/operations_controller.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/index.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/model/User.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/view/html/section/operations/returningBoxes.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/view/html/section/operations/showSecurityBoxes.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/view/html/section/users/close_session.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/view/html/section/operations/backupBoxesSearchResult.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/view/html/header.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/view/html/section/operations/showSurpriseBoxes.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/view/html/section/users/register.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/view/html/section/operations/boxesSearchResult.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/lang/es_ES.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/controller/freeshelves_controller.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/lang/en_GB.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/view/html/section/users/register_confirm.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/view/html/footer.html</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/dao/Dao_Exception.php</file>
+            <file>file:/C:/xampp/htdocs/WarehouseProjectv2/view/html/section/operations/showBlackBoxes.php</file>
+        </group>
+    </open-files>
+</project-private>
